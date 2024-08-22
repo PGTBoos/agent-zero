@@ -1,3 +1,31 @@
+# This version is to be used with lmstudio
+## Requirements
+
+This project is based on Python 3.11.6 and uses several external libraries. Below are the dependencies and their versions:
+
+- Python: 3.11.6
+- `inputimeout`: ^1.2.1
+- `langchain-core`: ^0.0.1
+- `langchain-openai`: ^0.0.1
+- `ansio`: ^0.1.0
+- `keyboard`: ^0.13.5
+- `openai`: ^0.27.0
+
+## Installation
+
+To set up the project, follow these steps:
+
+1. **Clone the repository**:
+   ```sh
+   git clone https://github.com/PGTBoos/agent-zero.git
+   cd agent-zero
+
+
+
+
+
+
+
 # Agent Zero
 
 [![Join our Discord](https://img.shields.io/badge/Discord-Join%20our%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/B8KZKNsPpj) [![Subscribe on YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AgentZeroFW) [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-tomasek/) [![Follow on X.com](https://img.shields.io/badge/X.com-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JanTomasekDev)
